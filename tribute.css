@@ -1,0 +1,18 @@
+img{
+    /* height: 200px;
+    width: 200px; */
+    width: 200px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    /*use the above styling for image*/
+}
+*{
+    text-align: center;
+}
+li{
+    list-style: oval;
+}
+
+/* table, th, td{
+    border: 1px solid black;
+} */
